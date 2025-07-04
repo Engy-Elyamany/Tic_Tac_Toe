@@ -11,13 +11,13 @@ A basic command-line implementation of the classic Tic-Tac-Toe game written in C
 - Player alternation (X starts first, then O)
 
 
-##🕹️ Gameplay Instructions
+## 🕹️Gameplay Instructions
 - The game will display an empty 3x3 grid with positions numbered from 1 to 9.
 - Players take turns entering a number corresponding to the cell they want to mark.
 - Player X always goes first.
 - The game checks after each move whether there is a winner or a draw.
 - If someone wins, the game ends and the winner is announced.
-Example Grid Layout:
+- Example Grid Layout:
 ```
  1 | 2 | 3 
  ------------
@@ -26,7 +26,7 @@ Example Grid Layout:
  7 | 8 | 9
 ```
 
-📁 Files Included
-tictactoe.c – Main source code containing game logic.
-TicTacToe.h – Header file with constants/macros and function declarations.
+## 📁Files Included
+- tictactoe.c – Main source code containing game logic.
+- TicTacToe.h – Header file with constants/macros and function declarations.
 
